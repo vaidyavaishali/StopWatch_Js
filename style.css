@@ -8,7 +8,7 @@ body{
     padding: 10px;
     box-sizing: border-box;
     width: 500px;
-    height: 300px;
+    height: auto;
     text-align: center;
     padding-top: 60px;
     font-size: 40px;
@@ -22,4 +22,7 @@ body{
     margin: 40px 8px 0px 8px;
     width: 60px;
     height: 30px;
+}
+#cast-display{
+    font-size:  30px;
 }
