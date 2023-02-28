@@ -1,0 +1,25 @@
+body{
+    background-color: #ccc;
+}
+#main-container {
+    background-color: rgb(234, 122, 122);
+    margin: 100px auto;
+    border: 1px solid black;
+    padding: 10px;
+    box-sizing: border-box;
+    width: 500px;
+    height: 300px;
+    text-align: center;
+    padding-top: 60px;
+    font-size: 40px;
+
+}
+#button-div{
+    display: flex;
+    justify-content: center;
+}
+#button-div button{
+    margin: 40px 8px 0px 8px;
+    width: 60px;
+    height: 30px;
+}
